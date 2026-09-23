@@ -1,0 +1,21 @@
+{
+	"default_acceleration": "5000",
+	"from": "User",
+	"inherits": "0.30mm Standard @Qidi Q2 0.6 nozzle",
+	"initial_layer_acceleration": "250",
+	"inner_wall_acceleration": "2500",
+	"name": "3D-Fuel Pro PCTG 0.30mm Standard @Qidi Q2 0.6 nozzle",
+	"outer_wall_acceleration": "1200",
+	"print_extruder_id": [
+		"1"
+	],
+	"print_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"print_settings_id": "3D-Fuel Pro PCTG 0.30mm Standard @Qidi Q2 0.6 nozzle",
+	"sparse_infill_pattern": "cubic",
+	"top_surface_acceleration": "1200",
+	"travel_acceleration": "5000",
+	"version": "2.4.0.6",
+	"wall_generator": "arachne"
+}

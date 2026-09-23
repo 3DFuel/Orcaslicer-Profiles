@@ -1,0 +1,14 @@
+{
+	"from": "User",
+	"inherits": "0.20mm STRUCTURAL @MK4S 0.4",
+	"name": "3D-Fuel Pro PCTG 0.20mm STRUCTURAL @MK4S 0.4",
+	"print_extruder_id": [
+		"1"
+	],
+	"print_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"print_settings_id": "3D-Fuel Pro PCTG 0.20mm STRUCTURAL @MK4S 0.4",
+	"sparse_infill_pattern": "cubic",
+	"version": "2.4.0.3"
+}
